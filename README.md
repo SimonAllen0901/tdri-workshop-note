@@ -1,2 +1,35 @@
-# tdri-workshop-note
-Notes from the 2025 TDRI AI &amp; Digital Design Research Workshop
+# TDRI AI 數位設計研究工作坊筆記
+
+## 活動基本資訊
+
+* 名稱：台灣設計研究院 AI 數位設計研究工具體驗 — IxDA Taiwan 專場
+* 時間：2025 年 4 月 12 日（週六）14:00–16:00
+* 地點：TDRI 台灣設計研究院 201 會議室（松菸文創園區）
+* 主辦單位：IxDA Taiwan（台灣互動設計協會）
+* 對象：不限職務經驗，對循環經濟、永續發展、創新設計有興趣者皆可參加
+* 活動官網：https://ixda.kktix.cc/events/ixda-tdri-ai
+* TDRI 官網：https://www.tdri.org.tw/zh-TW
+* TDRI 研究工具網站：https://member.rdlab.tw/
+
+
+## 體驗的四款 AI 數位設計研究工具
+### 產品數據分析工具
+* 提供 2 萬筆以上品牌數據
+* 涵蓋 16 項設計因素（如材質、功能、色彩、族群等）
+* 可快速洞察智慧家電、健康照護等領域的趨勢
+* 適合設計師、PM、設計主管作為提案與規劃參考
+
+### 使用者研究數位工具
+* 整合百萬筆使用者評論，快速擷取需求
+* 可自動生成 Persona、User Journey Map、Stakeholder Map
+* 大幅減少使用者研究所需時間
+
+### AI 創新情境生成工具
+* 運用 POEMS 框架與 AI 生成技術
+* 協助模擬未來使用情境與市場趨勢
+* 適合進行早期設計探索與未來想像
+
+### AI 設計策略生成工具
+* 結合設計思考與 AI 協作
+* 支援文生文、文生圖、自動彙整資料與生成視覺化素材
+* 協助收斂設計方向、規劃產品前期研究與策略
